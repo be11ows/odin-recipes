@@ -5,6 +5,8 @@
 
 h1 {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(211, 169, 250);
+  background-color: #000000;
 }
 
 ul {
