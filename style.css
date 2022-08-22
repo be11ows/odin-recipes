@@ -1,0 +1,14 @@
+* {
+  background-color: rgb(211, 169, 250);
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+  color: rgb(146, 38, 247);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  list-style-type: none;
+}
